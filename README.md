@@ -3,6 +3,8 @@ perl-una-decoder
 
 The perl-una-decoder is a Perl module which allows you to decode a structured message data sent by a [UnaBiz Arduino library](https://github.com/UnaBiz/unabiz-arduino) for [UnaShield](https://unabiz.github.io/unashield/) which is a SIGFOX transceiver module for Arduino.
 
+If you are a JavaScript (node.js) programmer, you can use the [node-una-decoder](https://github.com/futomi/node-una-decoder).
+
 ## Dependencies
 
 * Perl 5
