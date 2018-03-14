@@ -50,7 +50,7 @@ If the structured message data contains only numeric data, pass a hexadecimal st
 ---------------------------------------
 ## <a id="Release-Note">Release Note</a>
 
-* v0.0.1 (2018-03-14)
+* v0.01 (2018-03-14)
   * First public release
 
 ---------------------------------------
